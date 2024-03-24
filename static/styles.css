@@ -1,6 +1,7 @@
 /* Background gradient for the entire body */
 body {
-    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+/*    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%); */
+    background: linear-gradient(120deg, white 0%, darkgray 100%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -8,7 +9,7 @@ body {
 
 /* Navbar styling */
 .navbar {
-    background-color: #81abd7 !important; 
+    background-color: lightblue!important;
 }
 
 /* Default margin for heading level 2 */
